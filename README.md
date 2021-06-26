@@ -10,6 +10,7 @@ I live in Brazil :brazil:, I love to code and I'm on my way to become Fullstack.
 I love languages, but not only the programming ones. I'm proficient in English et je connais un peu français.
 
 <br>
+<br>
 
 ## Tech
 
