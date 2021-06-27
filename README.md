@@ -14,7 +14,7 @@ I love languages, but not only the programming ones. I'm proficient in English e
 
 ## <img src="https://img.icons8.com/nolan/32/open-resume.png" alt="Resume"/> Resume
 
-<a href="https://drive.google.com/file/d/1lfv6aCiel8pRvol0qAK2FoLXBFsiSXAj/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1lfv6aCiel8pRvol0qAK2FoLXBFsiSXAj/view?usp=sharing" target="_blank">
  <img src="https://img.icons8.com/color/50/000000/brazil-circular.png" alt="Portuguese" title="Portuguese"/>
 </a>
 <!-- Next resumes to add
@@ -27,22 +27,22 @@ I love languages, but not only the programming ones. I'm proficient in English e
 
 ## <img src="https://img.icons8.com/nolan/32/business-contact.png" alt="Contact"/> Contact
 
-<a href="mailto:rafaelxsantosx@hotmail.com">
+<a href="mailto:rafaelxsantosx@hotmail.com" target="_blank">
   <img src="https://img.icons8.com/color/50/000000/ms-outlook.png" alt="Outlook" title="Outlook"/>
 </a>
-<a href="mailto:rafaelxsantosx@gmail.com">
+<a href="mailto:rafaelxsantosx@gmail.com" target="_blank">
   <img src="https://img.icons8.com/color/50/000000/gmail.png" alt="Gmail" title="Gmail"/>
 </a>
-<a href="https://api.whatsapp.com/send?phone=5562996511988">
+<a href="https://api.whatsapp.com/send?phone=5562996511988" target="_blank">
   <img src="https://img.icons8.com/color/50/000000/whatsapp--v1.png" alt="WhatsApp" title="WhatsApp"/>
 </a>
-<a href="https://www.linkedin.com/in/ziinahzoor/">
+<a href="https://www.linkedin.com/in/ziinahzoor/" target="_blank">
   <img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
 </a>
-<a href="https://www.facebook.com/ziinahzoor/">
+<a href="https://www.facebook.com/ziinahzoor/" target="_blank">
   <img src="https://img.icons8.com/color/50/000000/facebook.png" alt="Facebook" title="Facebook"/>
 </a> 
-<a href="https://www.instagram.com/ziinahzoor/">
+<a href="https://www.instagram.com/ziinahzoor/" target="_blank">
   <img src="https://img.icons8.com/color/50/000000/instagram-new--v1.png" alt="Instagram" title="Instagram"/>
 </a> 
 
@@ -105,14 +105,14 @@ jquery
 next.js
 -->
 
-## <img src="https://img.icons8.com/nolan/32/project-management.png"/> Projects
+## <img src="https://img.icons8.com/nolan/32/project-management.png" alt="Projects"/> Projects
 
 I'm working on some projects and soon I'll upload them here on GitHub.
 
-## <img src="https://img.icons8.com/nolan/32/school-building.png"/> Academic
+## <img src="https://img.icons8.com/nolan/32/school-building.png" alt="Academic"/> Academic
 
 As for now, I'm a Computer Science undergraduation student at [Universidade Federal de Goiás](https://www.ufg.br). 
 
-## <img src="https://img.icons8.com/nolan/32/work.png"/> Professional
+## <img src="https://img.icons8.com/nolan/32/work.png" alt="Professional"/> Professional
 
 I'm currently working at [Escolar Manager](https://www.escolarmanager.com.br) as a .NET Developer.
