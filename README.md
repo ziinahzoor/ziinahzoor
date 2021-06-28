@@ -57,7 +57,7 @@ I love languages, but not only the programming ones. I'm proficient in English e
 <code><img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS" title="CSS"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/mysql-logo.png" alt="MySQL" title="MySQL"/></code>
 
-## Learning Stack
+## <img src="https://img.icons8.com/nolan/32/books-1.png" alt="Learning Stack"/>Learning Stack
 
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Core" title="ASP.NET MVC, Entity Framework" width="50" /></code>
 <code><img src="https://img.icons8.com/color/50/000000/javascript.png" alt="JavaScript" title="JavaScript"/></code>
