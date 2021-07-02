@@ -52,8 +52,8 @@ I love languages, but not only the programming ones. I'm proficient in English e
 <code><img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png" alt="C#" title="C#"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/git.png" alt="Git" title="Git"/></code>
-
 <code><img src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="HTML" title="HTML"/></code>
+
 <code><img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS" title="CSS"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/mysql-logo.png" alt="MySQL" title="MySQL"/></code>
 
@@ -63,8 +63,8 @@ I love languages, but not only the programming ones. I'm proficient in English e
 <code><img src="https://img.icons8.com/color/50/000000/javascript.png" alt="JavaScript" title="JavaScript"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/typescript.png" alt="TypeScript" title="TypeScript"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/sass.png" alt="SASS" title="SASS"/></code>
-
 <code><img src="https://img.icons8.com/officexs/50/000000/react.png" alt="React" title="React"/></code>
+
 <code><img src="https://img.icons8.com/color/50/000000/nodejs.png" alt="Node.js" title="Node.js, Express.js"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/angularjs.png" alt="Angular" title="Angular"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/firebase.png" alt="Firebase" title="Firebase"/></code>
@@ -106,6 +106,12 @@ next.js
 -->
 
 ## <img src="https://img.icons8.com/nolan/32/project-management.png" alt="Projects"/> Projects
+
+<code>
+ <a href="https://drive.google.com/file/d/1iic6vnlyXAg6aO55CrkMW0VLlxxlGP2Y/view?usp=sharing">
+  <img src="https://img.icons8.com/fluent/50/000000/microscope.png" alt="Scientific Research" title="Scientific Research"/>
+ </a>
+</code>
 
 I'm working on some projects and soon I'll upload them here on GitHub.
 
