@@ -55,6 +55,7 @@ I love languages, but not only the programming ones. I'm proficient in English e
 <code><img src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="HTML" title="HTML"/></code>
 
 <code><img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS" title="CSS"/></code>
+<code><img src="https://img.icons8.com/color/50/000000/sass.png" alt="SASS" title="SASS"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/mysql-logo.png" alt="MySQL" title="MySQL"/></code>
 
 ## <img src="https://img.icons8.com/nolan/32/books-1.png" alt="Learning Stack"/>Learning Stack
@@ -62,10 +63,10 @@ I love languages, but not only the programming ones. I'm proficient in English e
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Core" title="ASP.NET MVC, Entity Framework" width="50" /></code>
 <code><img src="https://img.icons8.com/color/50/000000/javascript.png" alt="JavaScript" title="JavaScript"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/typescript.png" alt="TypeScript" title="TypeScript"/></code>
-<code><img src="https://img.icons8.com/color/50/000000/sass.png" alt="SASS" title="SASS"/></code>
 <code><img src="https://img.icons8.com/officexs/50/000000/react.png" alt="React" title="React"/></code>
-
 <code><img src="https://img.icons8.com/color/50/000000/nodejs.png" alt="Node.js" title="Node.js, Express.js"/></code>
+
+<code><img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/angularjs.png" alt="Angular" title="Angular"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/firebase.png" alt="Firebase" title="Firebase"/></code>
 
@@ -84,7 +85,6 @@ I love languages, but not only the programming ones. I'm proficient in English e
 <code><img src="https://img.icons8.com/color/50/000000/spring-logo.png" alt="Spring" title="Spring"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/django.png" alt="Django" title="Django"/></code>
 <code><img src="https://img.icons8.com/fluent/50/000000/laravel.png" alt="Laravel" title="Laravel"/></code>
-<code><img src="https://img.icons8.com/color/50/000000/bootstrap.png alt="Bootstrap" title="Bootstrap"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/react-native.png" alt="React Native" title="React Native"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/vue-js.png" alt="Vue" title="Vue"/></code>
 
