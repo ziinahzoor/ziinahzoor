@@ -61,13 +61,14 @@ I love languages, but not only the programming ones. I'm proficient in English e
 ## <img src="https://img.icons8.com/nolan/32/books-1.png" alt="Learning Stack"/>Learning Stack
 
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Core" title="ASP.NET MVC, Entity Framework" width="50" /></code>
+<code><img src="https://img.icons8.com/color/50/000000/dart.png" alt="Dart" title="Dart"/></code>
+<code><img src="https://img.icons8.com/color/50/000000/flutter.png" alt="Flutter" title="Flutter"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/javascript.png" alt="JavaScript" title="JavaScript"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/typescript.png" alt="TypeScript" title="TypeScript"/></code>
+
 <code><img src="https://img.icons8.com/officexs/50/000000/react.png" alt="React" title="React"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/nodejs.png" alt="Node.js" title="Node.js, Express.js"/></code>
-
 <code><img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
-<code><img src="https://img.icons8.com/color/50/000000/angularjs.png" alt="Angular" title="Angular"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/firebase.png" alt="Firebase" title="Firebase"/></code>
 
 <!-- To add later
@@ -78,9 +79,8 @@ I love languages, but not only the programming ones. I'm proficient in English e
 <code><img src="https://img.icons8.com/windows/50/000000/php-logo.png" alt="PHP" title="PHP"/></code>
 <code><img src="https://img.icons8.com/windows/50/000000/r-project.png" alt="R" title="R"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/delphi-ide.png" alt="Delphi" title="Delphi"/></code>
-<code><img src="https://img.icons8.com/color/50/000000/flutter.png" alt="Flutter" title="Flutter"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/golang.png" alt="Golang" title="Golang"/></code>
-<code><img src="https://img.icons8.com/color/50/000000/dart.png" alt="Dart" title="Dart"/></code>
+<code><img src="https://img.icons8.com/color/50/000000/angularjs.png" alt="Angular" title="Angular"/></code>
 
 <code><img src="https://img.icons8.com/color/50/000000/spring-logo.png" alt="Spring" title="Spring"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/django.png" alt="Django" title="Django"/></code>
