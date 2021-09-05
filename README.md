@@ -14,11 +14,13 @@ I love languages, but not only the programming ones. I'm proficient in English e
 
 ## <img src="https://img.icons8.com/nolan/32/open-resume.png" alt="Resume"/> Resume
 
-<a href="https://drive.google.com/file/d/1NZpUKsSBSRs2j6oesgKJYDYmnBRUP2g1/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1losJjvrI4k_qxrDvV2N-1Kx1DoBtesgF/view?usp=sharing" target="_blank">
  <img src="https://img.icons8.com/color/50/000000/brazil-circular.png" alt="Portuguese" title="Portuguese"/>
 </a>
+<a href="https://drive.google.com/file/d/159ylOC3vQqrxC4OVcK_lNOdsYkE9FXF3/view?usp=sharing" target="_blank">
+ <img src="https://img.icons8.com/color/50/000000/great-britain-circular.png" alt="English" title="English"/>
+</a>
 <!-- Next resumes to add
-<img src="https://img.icons8.com/color/50/000000/great-britain-circular.png" alt="English" title="English"/>
 <img src="https://img.icons8.com/color/50/000000/spain2-circular.png" alt="Spanish" title="Spanish"/>
 <img src="https://img.icons8.com/color/50/000000/china-circular.png alt"Mandarin" title="Mandarin"/>
 <img src="https://img.icons8.com/color/50/000000/japan-circular.png" alt="Japanese" title="Japanese"/>
