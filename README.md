@@ -14,7 +14,7 @@ I love languages, but not only the programming ones. I'm proficient in English e
 
 ## <img src="https://img.icons8.com/nolan/32/open-resume.png" alt="Resume"/> Resume
 
-<a href="https://drive.google.com/file/d/1lfv6aCiel8pRvol0qAK2FoLXBFsiSXAj/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1NZpUKsSBSRs2j6oesgKJYDYmnBRUP2g1/view?usp=sharing" target="_blank">
  <img src="https://img.icons8.com/color/50/000000/brazil-circular.png" alt="Portuguese" title="Portuguese"/>
 </a>
 <!-- Next resumes to add
@@ -56,6 +56,7 @@ I love languages, but not only the programming ones. I'm proficient in English e
 
 <code><img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS" title="CSS"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/sass.png" alt="SASS" title="SASS"/></code>
+<code><img src="https://img.icons8.com/color/50/000000/postgreesql.png" alt="PostGre" title="PostGre"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/mysql-logo.png" alt="MySQL" title="MySQL"/></code>
 
 ## <img src="https://img.icons8.com/nolan/32/books-1.png" alt="Learning Stack"/>Learning Stack
@@ -92,7 +93,6 @@ I love languages, but not only the programming ones. I'm proficient in English e
 <code><img src="https://img.icons8.com/color/50/000000/docker.png" alt="Docker" title="Docker"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/kubernetes.png" alt="Kubernetes" title="Kubernetes"/></code>
 
-<code><img src="https://img.icons8.com/color/50/000000/postgreesql.png" alt="PostGre" title="PostGre"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/microsoft-sql-server.png" alt="SQL Server" title="SQL Server"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="MongoDB" title="MongoDB"/></code>
 
@@ -110,6 +110,12 @@ next.js
 <code>
  <a href="https://drive.google.com/file/d/1iic6vnlyXAg6aO55CrkMW0VLlxxlGP2Y/view?usp=sharing">
   <img src="https://img.icons8.com/fluent/50/000000/microscope.png" alt="Scientific Research" title="Scientific Research"/>
+ </a>
+</code>
+
+<code>
+ <a href="https://github.com/ziinahzoor/GeneticAlgorithm.git">
+  <img src="https://img.icons8.com/nolan/50/biotech.png" alt="Genetic Algorithm in C#" title="Genetic Algorithm in C#"/>
  </a>
 </code>
 
