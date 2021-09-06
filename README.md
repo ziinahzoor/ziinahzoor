@@ -111,7 +111,7 @@ next.js
 
 <code>
  <a href="https://drive.google.com/file/d/1iic6vnlyXAg6aO55CrkMW0VLlxxlGP2Y/view?usp=sharing">
-  <img src="https://img.icons8.com/fluent/50/000000/microscope.png" alt="Scientific Research" title="Scientific Research"/>
+  <img src="https://img.icons8.com/nolan/50/flip-chart.png" alt="Scientific Research" title="Scientific Research"/>
  </a>
 </code>
 
