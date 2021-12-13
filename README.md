@@ -60,19 +60,21 @@ I love languages, but not only the programming ones. I'm proficient in English e
 <code><img src="https://img.icons8.com/color/50/000000/sass.png" alt="SASS" title="SASS"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/postgreesql.png" alt="PostGre" title="PostGre"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/mysql-logo.png" alt="MySQL" title="MySQL"/></code>
-
-## <img src="https://img.icons8.com/nolan/32/books-1.png" alt="Learning Stack"/>Learning Stack
-
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Core" title="ASP.NET MVC, Entity Framework" width="50" /></code>
+
 <code><img src="https://img.icons8.com/color/50/000000/dart.png" alt="Dart" title="Dart"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/flutter.png" alt="Flutter" title="Flutter"/></code>
+
+## <img src="https://img.icons8.com/nolan/32/books-1.png" alt="Learning Stack"/>Learning Stack
 <code><img src="https://img.icons8.com/color/50/000000/javascript.png" alt="JavaScript" title="JavaScript"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/typescript.png" alt="TypeScript" title="TypeScript"/></code>
-
 <code><img src="https://img.icons8.com/officexs/50/000000/react.png" alt="React" title="React"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/nodejs.png" alt="Node.js" title="Node.js, Express.js"/></code>
+
 <code><img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/firebase.png" alt="Firebase" title="Firebase"/></code>
+<code><img src="https://img.icons8.com/plasticine/50/000000/bash.png" alt="Bash" title="Bash"/></code>
+
 
 <!-- To add later
 <code><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" alt="C++" title="C++"/><code>
