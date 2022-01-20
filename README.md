@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/hHIjGbP.png" alt="Rafael Rosa" width="200" align="left"/>
 <br>
 
-**Hello there!** I'm Rafael, a 21 years old student and developer.
+**Hello there!** I'm Rafael, a 22 years old student and developer.
 
 I live in Brazil <img src="https://img.icons8.com/color/16/000000/brazil-circular.png" alt="Brazil Flag"/>, I love to code and I'm on my way to become Fullstack.
 
