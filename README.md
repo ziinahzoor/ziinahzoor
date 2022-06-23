@@ -33,7 +33,7 @@ I love languages, but not only the programming ones. I'm proficient in English e
   <img src="https://img.icons8.com/color/50/000000/ms-outlook.png" alt="Outlook" title="Outlook"/>
 </a>
 <a href="mailto:rafaelxsantosx@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/color/50/000000/gmail.png" alt="Gmail" title="Gmail"/>
+  <img src="https://img.icons8.com/color/50/000000/gmail-new.png" alt="Gmail" title="Gmail"/>
 </a>
 <a href="https://api.whatsapp.com/send?phone=5562991539307" target="_blank">
   <img src="https://img.icons8.com/color/50/000000/whatsapp--v1.png" alt="WhatsApp" title="WhatsApp"/>
@@ -45,7 +45,7 @@ I love languages, but not only the programming ones. I'm proficient in English e
   <img src="https://img.icons8.com/color/50/000000/facebook.png" alt="Facebook" title="Facebook"/>
 </a> 
 <a href="https://www.instagram.com/ziinahzoor/" target="_blank">
-  <img src="https://img.icons8.com/color/50/000000/instagram-new--v1.png" alt="Instagram" title="Instagram"/>
+  <img src="https://img.icons8.com/fluency/50/000000/instagram-new.png" alt="Instagram" title="Instagram"/>
 </a> 
 
 
