@@ -35,7 +35,7 @@ I love languages, but not only the programming ones. I'm proficient in English e
 <a href="mailto:rafaelxsantosx@gmail.com" target="_blank">
   <img src="https://img.icons8.com/color/50/000000/gmail.png" alt="Gmail" title="Gmail"/>
 </a>
-<a href="https://api.whatsapp.com/send?phone=5562996511988" target="_blank">
+<a href="https://api.whatsapp.com/send?phone=5562991539307" target="_blank">
   <img src="https://img.icons8.com/color/50/000000/whatsapp--v1.png" alt="WhatsApp" title="WhatsApp"/>
 </a>
 <a href="https://www.linkedin.com/in/ziinahzoor/" target="_blank">
