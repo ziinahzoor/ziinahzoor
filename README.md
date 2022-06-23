@@ -49,10 +49,10 @@ I love languages, but not only the programming ones. I'm proficient in English e
 </a> 
 
 
-## <img src="https://img.icons8.com/nolan/32/source-code.png" alt="Dev Stack"/> Dev Stack
+## <img src="https://img.icons8.com/nolan/32/code--v2.png" alt="Dev Stack"/> Dev Stack
 <code><img src="https://img.icons8.com/color/50/000000/c-programming.png" alt="C" title="C"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png" alt="C#" title="C#"/></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Core" title="ASP.NET MVC, Entity Framework" width="50" /></code>
+<code><img src="https://img.icons8.com/color/50/000000/net-framework.png" alt=".NET Core" title=".NET Core" width="50" /></code>
 <code><img src="https://img.icons8.com/color/50/000000/dart.png" alt="Dart" title="Dart"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/flutter.png" alt="Flutter" title="Flutter"/></code>
 
@@ -68,13 +68,19 @@ I love languages, but not only the programming ones. I'm proficient in English e
 <code><img src="https://img.icons8.com/color/50/000000/mysql-logo.png" alt="MySQL" title="MySQL"/></code>
 
 ## <img src="https://img.icons8.com/nolan/32/books-1.png" alt="Learning Stack"/>Learning Stack
+<code><img src="https://img.icons8.com/color/50/000000/angularjs.png" alt="Angular" title="Angular"/></code>
+<code><img src="https://img.icons8.com/color/50/000000/typescript.png" alt="TypeScript" title="TypeScript"/></code>
+<code><img src="https://img.icons8.com/color/50/000000/microsoft-sql-server.png" alt="SQL Server" title="SQL Server"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/azure-1.png" alt="Azure" title="Azure"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/firebase.png" alt="Firebase" title="Firebase"/></code>
-<code><img src="https://img.icons8.com/plasticine/50/000000/bash.png" alt="Bash" title="Bash"/></code>
-<code><img src="https://img.icons8.com/color/50/000000/typescript.png" alt="TypeScript" title="TypeScript"/></code>
-<code><img src="https://img.icons8.com/officexs/50/000000/react.png" alt="React" title="React"/></code>
 
+<code><img src="https://img.icons8.com/color/50/000000/docker.png" alt="Docker" title="Docker"/></code>
+<code><img src="https://img.icons8.com/color/50/000000/amazon-web-services.png" alt="AWS" title="AWS"/></code>
+<code><img src="https://img.icons8.com/color/50/000000/react-native.png" alt="React" title="React"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/nodejs.png" alt="Node.js" title="Node.js, Express.js"/></code>
+<code><img src="https://img.icons8.com/plasticine/50/000000/bash.png" alt="Bash" title="Bash"/></code>
+
+<code><img src="https://img.icons8.com/color/50/000000/unreal-engine.png" alt="Unreal Engine" title="Unreal Engine"/></code>
 
 <!-- To add later
 <code><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" alt="C++" title="C++"/><code>
@@ -85,7 +91,6 @@ I love languages, but not only the programming ones. I'm proficient in English e
 <code><img src="https://img.icons8.com/windows/50/000000/r-project.png" alt="R" title="R"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/delphi-ide.png" alt="Delphi" title="Delphi"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/golang.png" alt="Golang" title="Golang"/></code>
-<code><img src="https://img.icons8.com/color/50/000000/angularjs.png" alt="Angular" title="Angular"/></code>
 
 <code><img src="https://img.icons8.com/color/50/000000/spring-logo.png" alt="Spring" title="Spring"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/django.png" alt="Django" title="Django"/></code>
@@ -93,13 +98,9 @@ I love languages, but not only the programming ones. I'm proficient in English e
 <code><img src="https://img.icons8.com/color/50/000000/react-native.png" alt="React Native" title="React Native"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/vue-js.png" alt="Vue" title="Vue"/></code>
 
-<code><img src="https://img.icons8.com/color/50/000000/amazon-web-services.png" alt="AWS" title="AWS"/></code>
-<code><img src="https://img.icons8.com/color/50/000000/docker.png" alt="Docker" title="Docker"/></code>
+
 <code><img src="https://img.icons8.com/color/50/000000/kubernetes.png" alt="Kubernetes" title="Kubernetes"/></code>
-
-<code><img src="https://img.icons8.com/color/50/000000/microsoft-sql-server.png" alt="SQL Server" title="SQL Server"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="MongoDB" title="MongoDB"/></code>
-
 <code><img src="https://img.icons8.com/fluent/50/000000/unity.png" alt="Unity" title="Unity"/></code>
 
 gherkin
@@ -131,4 +132,6 @@ As for now, I'm a Computer Science undergraduation student at [Universidade Fede
 
 ## <img src="https://img.icons8.com/nolan/32/work.png" alt="Professional"/> Professional
 
-I'm currently working at [Escolar Manager](https://www.escolarmanager.com.br) as a .NET/Flutter Developer.
+I'm currently working at [NTT DATA](https://www.nttdata.com) as a .NET/Angular Developer.
+
+I previouly worked at [Escolar Manager](https://www.escolarmanager.com.br) as a .NET/Flutter Developer.
