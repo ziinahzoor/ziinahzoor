@@ -72,14 +72,15 @@ I love languages, but not only the programming ones. I'm proficient in English e
 <code><img src="https://img.icons8.com/color/50/000000/typescript.png" alt="TypeScript" title="TypeScript"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/microsoft-sql-server.png" alt="SQL Server" title="SQL Server"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/azure-1.png" alt="Azure" title="Azure"/></code>
-<code><img src="https://img.icons8.com/color/50/000000/firebase.png" alt="Firebase" title="Firebase"/></code>
+<code><img src="https://img.icons8.com/color/50/000000/jira.png" alt="Jira" title="Jira"/></code>
 
+<code><img src="https://img.icons8.com/color/50/000000/firebase.png" alt="Firebase" title="Firebase"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/docker.png" alt="Docker" title="Docker"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/amazon-web-services.png" alt="AWS" title="AWS"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/react-native.png" alt="React" title="React"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/nodejs.png" alt="Node.js" title="Node.js, Express.js"/></code>
-<code><img src="https://img.icons8.com/plasticine/50/000000/bash.png" alt="Bash" title="Bash"/></code>
 
+<code><img src="https://img.icons8.com/plasticine/50/000000/bash.png" alt="Bash" title="Bash"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/unreal-engine.png" alt="Unreal Engine" title="Unreal Engine"/></code>
 
 <!-- To add later
