@@ -65,6 +65,7 @@ I love languages, but not only the programming ones. I'm proficient in English e
 <code><img src="https://img.icons8.com/color/50/000000/sass.png" alt="SASS" title="SASS"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/postgreesql.png" alt="PostGre" title="PostGre"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/mysql-logo.png" alt="MySQL" title="MySQL"/></code>
+<code><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="Postman" title="Postman"/></code>
 
 ## <img src="https://img.icons8.com/nolan/32/books-1.png" alt="Learning Stack"/> Learning Stack
 <code><img src="https://img.icons8.com/color/50/000000/angularjs.png" alt="Angular" title="Angular"/></code>
@@ -79,7 +80,8 @@ I love languages, but not only the programming ones. I'm proficient in English e
 <code><img src="https://img.icons8.com/color/50/000000/react-native.png" alt="React" title="React"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/nodejs.png" alt="Node.js" title="Node.js, Express.js"/></code>
 
-<code><img src="https://img.icons8.com/plasticine/50/000000/bash.png" alt="Bash" title="Bash"/></code>
+<code><img src="https://img.icons8.com/color/50/000000/powershell.png" alt="PowerShell" title="PowerShell"/></code>
+<code><img src="https://img.icons8.com/color/50/000000/bash.png" alt="Bash" title="Bash"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/unreal-engine.png" alt="Unreal Engine" title="Unreal Engine"/></code>
 
 <!-- To add later
@@ -109,6 +111,11 @@ assembly
 jquery
 next.js
 -->
+
+## <img src="https://img.icons8.com/nolan/32/design.png" alt="Other Tools"/> Other Tools
+<code><img src="https://img.icons8.com/color/50/000000/latex.png" alt="LaTeX" title="LaTeX"/></code>
+<code><img src="https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png" alt="Photoshop" title="Photoshop"/></code>
+<code><img src="https://img.icons8.com/color/50/000000/figma--v1.png" alt="Figma" title="Figma"/></code>
 
 ## <img src="https://img.icons8.com/nolan/32/project-management.png" alt="Projects"/> Projects
 
