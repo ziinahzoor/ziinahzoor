@@ -66,7 +66,7 @@ I love languages, but not only the programming ones. I'm proficient in English e
 <code><img src="https://img.icons8.com/color/50/000000/postgreesql.png" alt="PostGre" title="PostGre"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/mysql-logo.png" alt="MySQL" title="MySQL"/></code>
 
-## <img src="https://img.icons8.com/nolan/32/books-1.png" alt="Learning Stack"/>Learning Stack
+## <img src="https://img.icons8.com/nolan/32/books-1.png" alt="Learning Stack"/> Learning Stack
 <code><img src="https://img.icons8.com/color/50/000000/angularjs.png" alt="Angular" title="Angular"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/typescript.png" alt="TypeScript" title="TypeScript"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/microsoft-sql-server.png" alt="SQL Server" title="SQL Server"/></code>
@@ -132,9 +132,9 @@ As for now, I'm a Computer Science undergraduation student at [Universidade Fede
 
 ## <img src="https://img.icons8.com/nolan/32/work.png" alt="Professional"/> Professional
 
-I'm currently working at [NTT DATA](https://www.nttdata.com) as a .NET/Angular Developer.
+I'm currently working at <a href="https://www.nttdata.com"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/NTT-Data-Logo.svg" alt="NTT DATA" title="NTT DATA" height=12/></a> as a .NET/Angular Developer.
 
-I previouly worked at [Escolar Manager](https://www.escolarmanager.com.br) as a .NET/Flutter Developer.
+I previously worked at [Escolar Manager](https://www.escolarmanager.com.br) as a .NET/Flutter Developer.
 
 ## <img src="https://img.icons8.com/nolan/32/bar-chart.png" alt="Stats"/> Stats
 
