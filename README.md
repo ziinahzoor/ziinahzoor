@@ -3,14 +3,13 @@
 <img src="https://i.imgur.com/hHIjGbP.png" alt="Rafael Rosa" width="200" align="left"/>
 <br>
 
-**Hello there!** I'm Rafael, a 22 years old student and developer.
+<img src="https://readme-typing-svg.herokuapp.com?font=montserrat&size=30&duration=3000&color=9129F7&lines=Hello+there!" alt="Hello there!" title="Hello there!"/>
+
+I'm Rafael, a 22 years old student and developer.
 
 I live in Brazil <img src="https://img.icons8.com/color/16/000000/brazil-circular.png" alt="Brazil Flag"/>, I love to code and I'm on my way to become Fullstack.
 
 I love languages, but not only the programming ones. I'm proficient in English et je connais un peu de français.
-
-<br>
-<br>
 
 ## <img src="https://img.icons8.com/nolan/32/open-resume.png" alt="Resume"/> Resume
 
@@ -136,3 +135,21 @@ As for now, I'm a Computer Science undergraduation student at [Universidade Fede
 I'm currently working at [NTT DATA](https://www.nttdata.com) as a .NET/Angular Developer.
 
 I previouly worked at [Escolar Manager](https://www.escolarmanager.com.br) as a .NET/Flutter Developer.
+
+## <img src="https://img.icons8.com/nolan/32/bar-chart.png" alt="Stats"/> Stats
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=ziinahzoor&theme=radical" alt="Streak Stats" title="Streak Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziinahzoor&theme=radical&layout=compact" alt="Top Languages" title="Top Languages"/>
+
+---
+
+<div align="center">
+ <img src="https://i.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.webp" alt="Coding Bear" height="200"/>
+ </br>
+ <a href="https://spotify-github-profile.vercel.app/api/view?uid=y5sqw3v5r21adcwbkaewvl406&redirect=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=y5sqw3v5r21adcwbkaewvl406&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify" title="Spotify"/>
+ </a>
+ <br>
+ <br>
+ <img src="https://img.shields.io/github/followers/ziinahzoor?color=blueviolet&style=for-the-badge" alt="GitHub Followers"/>
+</div>
