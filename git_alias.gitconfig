@@ -1,0 +1,99 @@
+[alias]
+	blend = !" \
+		PREV_STASH_NUM=$(git rev-list --ignore-missing --walk-reflogs --count refs/stash); \
+		BRANCH=$(git rev-parse --abbrev-ref HEAD); \
+		echo \"Stashing changes\"; \
+		git stash -u; \
+		CURR_STASH_NUM=$(git rev-list --ignore-missing --walk-reflogs --count refs/stash); \
+		BRANCH=$(git rev-parse --abbrev-ref origin/HEAD); \
+		BRANCH=${BRANCH:7}; \
+		CURRENT=$(git rev-parse --abbrev-ref HEAD); \
+		if [[ $CURRENT != $BRANCH ]]; \
+			then \
+			echo \"Checking out branch '$BRANCH'\"; \
+			git checkout $BRANCH; \
+			echo \"Pulling branch '$BRANCH'\"; \
+			git pull -p; \
+			echo \"Checking out branch '$CURRENT'\"; \
+			git checkout @{-1}; \
+			echo \"Merging branch '$BRANCH' into '$CURRENT'\"; \
+			git merge $BRANCH; \
+		else \
+			echo \"Pulling default branch '$BRANCH'\"; \
+			git pull -p; \
+		fi; \
+		if [[ $CURR_STASH_NUM > $PREV_STASH_NUM ]]; \
+			then \
+			echo \"Popping stash\"; \
+			git stash pop -q; \
+			CURR_STASH_NUM=$(git rev-list --ignore-missing --walk-reflogs --count refs/stash); \
+			if [[ $CURR_STASH_NUM = $PREV_STASH_NUM ]]; \
+				then \
+				echo \"Local changes restored\"; \
+			else \
+				echo \"Could not restore local changes\"; \
+			fi \
+		else \
+			echo \"No local changes to restore\"; \
+		fi"
+	branches = !git branch --format='"%(HEAD) %(color:#b151ff)%(refname:short)%(color:#ce0067) %(contents:subject) %(color:#ffd500)[%(authorname)] %(color:#55ff58)(%(committerdate:relative))"' --sort=-committerdate
+	create = !git checkout master && git pull -p && git checkout -b
+	delete = !git branch -D
+	detach = !git branch --merged | grep -v '*' | xargs -n 1 git branch -d
+	discard = !git reset --hard HEAD~1
+	drop = !git clean -fd
+	get = !" \
+		PREV_STASH_NUM=$(git rev-list --ignore-missing --walk-reflogs --count refs/stash); \
+		BRANCH=$(git rev-parse --abbrev-ref HEAD); \
+		echo \"Stashing changes\"; \
+		git stash -u; \
+		CURR_STASH_NUM=$(git rev-list --ignore-missing --walk-reflogs --count refs/stash); \
+		echo \"Pulling branch '$BRANCH'\"; \
+		git pull -p; \
+		if [[ $CURR_STASH_NUM > $PREV_STASH_NUM ]]; \
+			then \
+			echo \"Popping stash\"; \
+			git stash pop -q; \
+			CURR_STASH_NUM=$(git rev-list --ignore-missing --walk-reflogs --count refs/stash); \
+			if [[ $CURR_STASH_NUM = $PREV_STASH_NUM ]]; \
+				then \
+				echo \"Local changes restored\"; \
+			else \
+				echo \"Could not restore local changes\"; \
+			fi \
+		else \
+			echo \"No local changes to restore\"; \
+		fi"
+	history = !git log --color --graph --pretty=format:'"%C(#b151ff)%h%C(#0ef3ff)%d %C(#ce0067)%s %C(bold #ffd500)[%cn], %C(#55ff58)(%cr)"'
+	partial = !git add -p
+	remove = !sh -c 'git rebase --onto $1^ $1' --
+	rename = !git branch -m
+	rollback = !git reset HEAD~1 --mixed
+	stash-unstaged = !git stash --keep-index
+	sync = !git blend && git upstream
+	undo = !git reset --soft HEAD~1
+	undo-reset = !git reset 'HEAD@{1}'
+	upstream = !" \
+		PREV_STASH_NUM=$(git rev-list --ignore-missing --walk-reflogs --count refs/stash); \
+		BRANCH=$(git rev-parse --abbrev-ref HEAD); \
+		echo \"Stashing changes\"; \
+		git stash -u; \
+		CURR_STASH_NUM=$(git rev-list --ignore-missing --walk-reflogs --count refs/stash); \
+		echo \"Pulling branch '$BRANCH'\"; \
+		git pull -p; \
+		echo \"Pushing to branch 'origin/$BRANCH'\"; \
+		git push -u origin HEAD; \
+		if [[ $CURR_STASH_NUM > $PREV_STASH_NUM ]]; \
+			then \
+			echo \"Popping stash\"; \
+			git stash pop -q; \
+			CURR_STASH_NUM=$(git rev-list --ignore-missing --walk-reflogs --count refs/stash); \
+			if [[ $CURR_STASH_NUM = $PREV_STASH_NUM ]]; \
+				then \
+				echo \"Local changes restored\"; \
+			else \
+				echo \"Could not restore local changes\"; \
+			fi \
+		else \
+			echo \"No local changes to restore\"; \
+		fi"
