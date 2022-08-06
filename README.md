@@ -49,6 +49,9 @@ I love languages, but not only the programming ones. I'm proficient in English e
 
 
 ## <img src="https://img.icons8.com/nolan/32/code--v2.png" alt="Dev Stack"/> Dev Stack
+[![Dev Stack](https://skillicons.dev/icons?i=c,cs,dart,js,ts,java,html,md,css,sass,dotnet,angular,flutter,bootstrap,git,postgres,mysql,visualstudio,vscode&theme=dark)](https://skillicons.dev) <!-- postman -->
+
+<!--
 <code><img src="https://img.icons8.com/color/50/000000/c-programming.png" alt="C" title="C"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png" alt="C#" title="C#"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/net-framework.png" alt=".NET Core" title=".NET Core" width="50" /></code>
@@ -66,8 +69,12 @@ I love languages, but not only the programming ones. I'm proficient in English e
 <code><img src="https://img.icons8.com/color/50/000000/postgreesql.png" alt="PostGre" title="PostGre"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/mysql-logo.png" alt="MySQL" title="MySQL"/></code>
 <code><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="Postman" title="Postman"/></code>
+-->
 
 ## <img src="https://img.icons8.com/nolan/32/books-1.png" alt="Learning Stack"/> Learning Stack
+[![Learning Stack](https://skillicons.dev/icons?i=react,materialui,jquery,nodejs,expressjs,azure,firebase,docker,aws,powershell,bash,unreal,gherkin&theme=dark)](https://skillicons.dev) <!-- sqlserver, jira, reactnative-->
+
+<!--
 <code><img src="https://img.icons8.com/color/50/000000/angularjs.png" alt="Angular" title="Angular"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/typescript.png" alt="TypeScript" title="TypeScript"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/microsoft-sql-server.png" alt="SQL Server" title="SQL Server"/></code>
@@ -83,8 +90,13 @@ I love languages, but not only the programming ones. I'm proficient in English e
 <code><img src="https://img.icons8.com/color/50/000000/powershell.png" alt="PowerShell" title="PowerShell"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/bash.png" alt="Bash" title="Bash"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/unreal-engine.png" alt="Unreal Engine" title="Unreal Engine"/></code>
+-->
 
 <!-- To add later
+## <img src="https://img.icons8.com/nolan/32/books-1.png" alt="Want to Learn"/> Want to Learn
+
+[![Want to Learn](https://skillicons.dev/icons?i=cpp,lua,py,go,kotlin,elixir,ruby,php,r,vue,nextjs,nestjs,redux,tailwind,spring,django,tensorflow,laravel,unity,kubernetes,linux,gradle,redis,mongodb,sqlite&theme=dark)](https://skillicons.dev)
+
 <code><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" alt="C++" title="C++"/><code>
 <code><img src="https://img.icons8.com/color/50/000000/python.png" alt="Python" title="Python"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/kotlin.png" alt="Kotlin" title="Kotlin"/></code>
@@ -100,22 +112,21 @@ I love languages, but not only the programming ones. I'm proficient in English e
 <code><img src="https://img.icons8.com/color/50/000000/react-native.png" alt="React Native" title="React Native"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/vue-js.png" alt="Vue" title="Vue"/></code>
 
-
 <code><img src="https://img.icons8.com/color/50/000000/kubernetes.png" alt="Kubernetes" title="Kubernetes"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="MongoDB" title="MongoDB"/></code>
 <code><img src="https://img.icons8.com/fluent/50/000000/unity.png" alt="Unity" title="Unity"/></code>
 
-gherkin
-sqlite
 assembly
-jquery
-next.js
 -->
 
 ## <img src="https://img.icons8.com/nolan/32/design.png" alt="Other Tools"/> Other Tools
+[![Other Tools](https://skillicons.dev/icons?i=latex,ps,figma&theme=dark)](https://skillicons.dev)
+
+<!--
 <code><img src="https://img.icons8.com/color/50/000000/latex.png" alt="LaTeX" title="LaTeX"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png" alt="Photoshop" title="Photoshop"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/figma--v1.png" alt="Figma" title="Figma"/></code>
+-->
 
 ## <img src="https://img.icons8.com/nolan/32/project-management.png" alt="Projects"/> Projects
 
