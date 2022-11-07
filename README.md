@@ -72,7 +72,7 @@ I love languages, but not only the programming ones. I'm proficient in English e
 -->
 
 ## <img src="https://img.icons8.com/nolan/32/books-1.png" alt="Learning Stack"/> Learning Stack
-[![Learning Stack](https://skillicons.dev/icons?i=react,materialui,jquery,nodejs,expressjs,azure,firebase,docker,aws,powershell,bash,unreal,gherkin&theme=dark)](https://skillicons.dev) <!-- sqlserver, jira, reactnative-->
+[![Learning Stack](https://skillicons.dev/icons?i=tailwind,firebase,react,nodejs,aws,materialui,jquery,expressjs,azure,docker,powershell,bash,unreal,gherkin&theme=dark)](https://skillicons.dev) <!-- sqlserver, jira, reactnative-->
 
 <!--
 <code><img src="https://img.icons8.com/color/50/000000/angularjs.png" alt="Angular" title="Angular"/></code>
@@ -95,7 +95,7 @@ I love languages, but not only the programming ones. I'm proficient in English e
 <!-- To add later
 ## <img src="https://img.icons8.com/nolan/32/books-1.png" alt="Want to Learn"/> Want to Learn
 
-[![Want to Learn](https://skillicons.dev/icons?i=cpp,lua,py,go,kotlin,elixir,ruby,php,r,vue,nextjs,nestjs,redux,tailwind,spring,django,tensorflow,laravel,unity,kubernetes,linux,gradle,redis,mongodb,sqlite&theme=dark)](https://skillicons.dev)
+[![Want to Learn](https://skillicons.dev/icons?i=cpp,lua,py,go,kotlin,elixir,ruby,php,r,vue,nextjs,nestjs,redux,spring,django,tensorflow,laravel,unity,kubernetes,linux,gradle,redis,mongodb,sqlite,selenium,svelte&theme=dark)](https://skillicons.dev)
 
 <code><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" alt="C++" title="C++"/><code>
 <code><img src="https://img.icons8.com/color/50/000000/python.png" alt="Python" title="Python"/></code>
@@ -120,7 +120,7 @@ assembly
 -->
 
 ## <img src="https://img.icons8.com/nolan/32/design.png" alt="Other Tools"/> Other Tools
-[![Other Tools](https://skillicons.dev/icons?i=latex,ps,figma&theme=dark)](https://skillicons.dev)
+[![Other Tools](https://skillicons.dev/icons?i=latex,ps,ae,ai,figma&theme=dark)](https://skillicons.dev)
 
 <!--
 <code><img src="https://img.icons8.com/color/50/000000/latex.png" alt="LaTeX" title="LaTeX"/></code>
