@@ -72,7 +72,7 @@ I love languages, but not only the programming ones. I'm proficient in English e
 -->
 
 ## <img src="https://img.icons8.com/nolan/32/books-1.png" alt="Learning Stack"/> Learning Stack
-[![Learning Stack](https://skillicons.dev/icons?i=tailwind,firebase,react,nodejs,aws,materialui,jquery,expressjs,azure,docker,powershell,bash,unreal,gherkin&theme=dark)](https://skillicons.dev) <!-- sqlserver, jira, reactnative-->
+[![Learning Stack](https://skillicons.dev/icons?i=tailwind,firebase,react,reactivex,nodejs,aws,materialui,jquery,expressjs,azure,docker,powershell,bash,unreal,gherkin&theme=dark)](https://skillicons.dev) <!-- sqlserver, jira, reactnative-->
 
 <!--
 <code><img src="https://img.icons8.com/color/50/000000/angularjs.png" alt="Angular" title="Angular"/></code>
