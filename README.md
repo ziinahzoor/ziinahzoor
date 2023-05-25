@@ -49,46 +49,48 @@ I love languages, but not only the programming ones. I'm proficient in English e
 
 
 ## <img src="https://img.icons8.com/nolan/32/code--v2.png" alt="Dev Stack"/> Dev Stack
-[![Dev Stack](https://skillicons.dev/icons?i=c,cs,dart,js,ts,java,html,md,css,sass,dotnet,angular,flutter,bootstrap,git,postgres,mysql,visualstudio,vscode&theme=dark)](https://skillicons.dev) <!-- postman -->
+[![Dev Stack](https://skillicons.dev/icons?i=c,cs,dart,js,ts,java,html,md,css,sass,dotnet,angular,flutter,bootstrap,git,postgres,mysql,visualstudio,vscode,postman&theme=dark)](https://skillicons.dev) <!-- postman -->
 
 <!--
 <code><img src="https://img.icons8.com/color/50/000000/c-programming.png" alt="C" title="C"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png" alt="C#" title="C#"/></code>
-<code><img src="https://img.icons8.com/color/50/000000/net-framework.png" alt=".NET Core" title=".NET Core" width="50" /></code>
 <code><img src="https://img.icons8.com/color/50/000000/dart.png" alt="Dart" title="Dart"/></code>
-<code><img src="https://img.icons8.com/color/50/000000/flutter.png" alt="Flutter" title="Flutter"/></code>
+<code><img src="https://img.icons8.com/color/50/000000/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+<code><img src="https://img.icons8.com/color/50/000000/typescript.png" alt="TypeScript" title="TypeScript"/></code>
 
 <code><img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/></code>
-<code><img src="https://img.icons8.com/color/50/000000/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+<code><img src="https://img.icons8.com/color/50/000000/net-framework.png" alt=".NET Core" title=".NET Core" width="50" /></code>
+<code><img src="https://img.icons8.com/color/50/000000/angularjs.png" alt="Angular" title="Angular"/></code>
+<code><img src="https://img.icons8.com/color/50/000000/flutter.png" alt="Flutter" title="Flutter"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
+
 <code><img src="https://img.icons8.com/color/50/000000/git.png" alt="Git" title="Git"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="HTML" title="HTML"/></code>
-
 <code><img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS" title="CSS"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/sass.png" alt="SASS" title="SASS"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/postgreesql.png" alt="PostGre" title="PostGre"/></code>
+
 <code><img src="https://img.icons8.com/color/50/000000/mysql-logo.png" alt="MySQL" title="MySQL"/></code>
 <code><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="Postman" title="Postman"/></code>
 -->
 
 ## <img src="https://img.icons8.com/nolan/32/books-1.png" alt="Learning Stack"/> Learning Stack
-[![Learning Stack](https://skillicons.dev/icons?i=tailwind,firebase,react,reactivex,nodejs,aws,materialui,jquery,expressjs,azure,docker,powershell,bash,unreal,gherkin&theme=dark)](https://skillicons.dev) <!-- sqlserver, jira, reactnative-->
+[![Learning Stack](https://skillicons.dev/icons?i=tailwind,firebase,react,reactivex,nodejs,aws,materialui,jquery,expressjs,azure,docker,powershell,bash,unity,unreal,jest,gherkin&theme=dark)](https://skillicons.dev) <!-- sqlserver, jira, reactnative-->
 
 <!--
-<code><img src="https://img.icons8.com/color/50/000000/angularjs.png" alt="Angular" title="Angular"/></code>
-<code><img src="https://img.icons8.com/color/50/000000/typescript.png" alt="TypeScript" title="TypeScript"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/microsoft-sql-server.png" alt="SQL Server" title="SQL Server"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/azure-1.png" alt="Azure" title="Azure"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/jira.png" alt="Jira" title="Jira"/></code>
-
 <code><img src="https://img.icons8.com/color/50/000000/firebase.png" alt="Firebase" title="Firebase"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/docker.png" alt="Docker" title="Docker"/></code>
+
 <code><img src="https://img.icons8.com/color/50/000000/amazon-web-services.png" alt="AWS" title="AWS"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/react-native.png" alt="React" title="React"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/nodejs.png" alt="Node.js" title="Node.js, Express.js"/></code>
-
 <code><img src="https://img.icons8.com/color/50/000000/powershell.png" alt="PowerShell" title="PowerShell"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/bash.png" alt="Bash" title="Bash"/></code>
+
+<code><img src="https://img.icons8.com/fluent/50/000000/unity.png" alt="Unity" title="Unity"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/unreal-engine.png" alt="Unreal Engine" title="Unreal Engine"/></code>
 -->
 
@@ -114,7 +116,6 @@ I love languages, but not only the programming ones. I'm proficient in English e
 
 <code><img src="https://img.icons8.com/color/50/000000/kubernetes.png" alt="Kubernetes" title="Kubernetes"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="MongoDB" title="MongoDB"/></code>
-<code><img src="https://img.icons8.com/fluent/50/000000/unity.png" alt="Unity" title="Unity"/></code>
 
 assembly
 -->
