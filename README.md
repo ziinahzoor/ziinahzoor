@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=montserrat&size=30&duration=3000&color=9129F7&lines=Hello+there!" alt="Hello there!" title="Hello there!"/>
 
-I'm Rafael, a 22 years old student and developer.
+I'm Rafael, a 23 years old student and developer.
 
 I live in Brazil <img src="https://img.icons8.com/color/16/000000/brazil-circular.png" alt="Brazil Flag"/>, I love to code and I'm on my way to become Fullstack.
 
@@ -131,17 +131,12 @@ assembly
 
 ## <img src="https://img.icons8.com/nolan/32/project-management.png" alt="Projects"/> Projects
 
-<code>
  <a href="https://drive.google.com/file/d/1iic6vnlyXAg6aO55CrkMW0VLlxxlGP2Y/view?usp=sharing">
   <img src="https://img.icons8.com/nolan/50/flip-chart.png" alt="Scientific Research" title="Scientific Research"/>
  </a>
-</code>
-
-<code>
  <a href="https://github.com/ziinahzoor/GeneticAlgorithm.git">
   <img src="https://img.icons8.com/nolan/50/biotech.png" alt="Genetic Algorithm in C#" title="Genetic Algorithm in C#"/>
  </a>
-</code>
 
 I'm working on some projects and soon I'll upload them here on GitHub.
 
