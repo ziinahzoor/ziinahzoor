@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=montserrat&size=30&duration=3000&color=9129F7&lines=Hello+there!" alt="Hello there!" title="Hello there!"/>
 
-I'm Rafael, a 23 years old student and developer.
+I'm Rafael, a 24 years old student and developer.
 
 I live in Brazil <img src="https://img.icons8.com/color/16/000000/brazil-circular.png" alt="Brazil Flag"/>, I love to code and I'm on my way to become Fullstack.
 
