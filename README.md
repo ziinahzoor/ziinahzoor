@@ -1,15 +1,16 @@
 # <img src="https://img.icons8.com/nolan/64/developer.png" alt="Developer"/> Rafael Rosa dos Santos
 
-<img src="https://i.imgur.com/hHIjGbP.png" alt="Rafael Rosa" width="200" align="left"/>
+<img src="https://i.imgur.com/hHIjGbP.png" alt="Rafael Rosa" width="225" align="left"/>
 <br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=montserrat&size=30&duration=3000&color=9129F7&lines=Hello+there!" alt="Hello there!" title="Hello there!"/>
 
-I'm Rafael, a 24 years old student and developer.
+I'm Rafael a 24 years old full-stack and game developer.
 
-I live in Brazil <img src="https://img.icons8.com/color/16/000000/brazil-circular.png" alt="Brazil Flag"/>, I love to code and I'm on my way to become Fullstack.
+Brazilian <img src="https://img.icons8.com/color/16/000000/brazil-circular.png" alt="Brazil Flag" align=center/> and Bachelor of Computer Science 🎓.
 
-I love languages, but not only the programming ones. I'm proficient in English et je connais un peu de français.
+I love languages, but not only the programming ones. I'm proficient in English <img src="https://img.icons8.com/color/16/000000/great-britain-circular.png" alt="English" title="Britain Flag"/>
+, je connais un peu de français <img src="https://img.icons8.com/color/16/000000/france-circular.png" alt="French" title="France Flag"/>, un poco de español <img src="https://img.icons8.com/color/16/000000/spain-circular.png" alt="Spanish" title="Spain Flag"/>, それに、 日本語<img src="https://img.icons8.com/color/16/000000/japan-circular.png" alt="Japanese" title="Japan Flag"/>を学んでいます.
 
 ## <img src="https://img.icons8.com/nolan/32/open-resume.png" alt="Resume"/> Resume
 
@@ -134,15 +135,19 @@ assembly
  <a href="https://drive.google.com/file/d/1iic6vnlyXAg6aO55CrkMW0VLlxxlGP2Y/view?usp=sharing">
   <img src="https://img.icons8.com/nolan/50/flip-chart.png" alt="Scientific Research" title="Scientific Research"/>
  </a>
- <a href="https://github.com/ziinahzoor/GeneticAlgorithm.git">
+ <a href="https://github.com/ziinahzoor/GeneticAlgorithm">
   <img src="https://img.icons8.com/nolan/50/biotech.png" alt="Genetic Algorithm in C#" title="Genetic Algorithm in C#"/>
  </a>
-
-I'm working on some projects and soon I'll upload them here on GitHub.
-
+ <a href="https://github.com/ziinahzoor/inlumen">
+  <img src="https://img.icons8.com/nolan/50/nintendo-switch-pro-controller.png" alt="Inlumen Game Demo" title="Inlumen Game Demo"/>
+ </a>
+ <a href="https://github.com/ziinahzoor/cybersynth-theme">
+  <img src="https://img.icons8.com/nolan/50/paint-palette.png" alt="Jekyll Cybersynth Theme" title="Jekyll Cybersynth Theme"/>
+ </a>
+ 
 ## <img src="https://img.icons8.com/nolan/32/school-building.png" alt="Academic"/> Academic
 
-As for now, I'm a Computer Science undergraduation student at [Universidade Federal de Goiás](https://www.ufg.br). 
+I'm a Bachelor of Computer Science, graduated at <img src="https://files.cercomp.ufg.br/weby/up/1/o/Marca_UFG_cor_horizontal-04.png" height=60 alt="Universidade Federal de Goiás" title="Universidade Federal de Goiás" align=center>.
 
 ## <img src="https://img.icons8.com/nolan/32/work.png" alt="Professional"/> Professional
 
