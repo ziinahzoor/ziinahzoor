@@ -1,4 +1,4 @@
-# <img src="https://img.icons8.com/nolan/64/developer.png" alt="Developer"/> Rafael Rosa dos Santos
+# <img src="https://img.icons8.com/nolan/64/user-default.png" alt="Developer" /> Rafael Rosa Becker dos Santos
 
 <img src="https://i.imgur.com/hHIjGbP.png" alt="Rafael Rosa" width="225" align="left"/>
 <br>
@@ -147,7 +147,7 @@ assembly
  
 ## <img src="https://img.icons8.com/nolan/32/school-building.png" alt="Academic"/> Academic
 
-I'm a Bachelor of Computer Science, graduated at <a href="https://ufg.br/"><img src="https://files.cercomp.ufg.br/weby/up/1/o/Marca_UFG_cor_horizontal-04.png" height=60 alt="Universidade Federal de Goiás" title="Universidade Federal de Goiás" align=center></a>.
+I'm a Bachelor of Computer Science, graduated at <a href="https://ufg.br/"><img src="https://files.cercomp.ufg.br/weby/up/1/o/Marca_UFG_cor_horizontal-04.png" height=60 alt="Universidade Federal de Goiás" title="Universidade Federal de Goiás" align=center /></a>.
 
 ## <img src="https://img.icons8.com/nolan/32/work.png" alt="Professional"/> Professional
 
