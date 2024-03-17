@@ -147,7 +147,7 @@ assembly
  
 ## <img src="https://img.icons8.com/nolan/32/school-building.png" alt="Academic"/> Academic
 
-I'm a Bachelor of Computer Science, graduated at <img src="https://files.cercomp.ufg.br/weby/up/1/o/Marca_UFG_cor_horizontal-04.png" height=60 alt="Universidade Federal de Goiás" title="Universidade Federal de Goiás" align=center>.
+I'm a Bachelor of Computer Science, graduated at <a href="https://ufg.br/"><img src="https://files.cercomp.ufg.br/weby/up/1/o/Marca_UFG_cor_horizontal-04.png" height=60 alt="Universidade Federal de Goiás" title="Universidade Federal de Goiás" align=center></a>.
 
 ## <img src="https://img.icons8.com/nolan/32/work.png" alt="Professional"/> Professional
 
