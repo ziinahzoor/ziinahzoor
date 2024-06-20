@@ -1,6 +1,6 @@
 # <img src="https://img.icons8.com/nolan/64/user-default.png" alt="Developer" /> Rafael Rosa Becker dos Santos
 
-<img src="https://i.imgur.com/K2MQvI8.jpeg" alt="Rafael Rosa" width="225" align="left"/>
+<img src="https://i.imgur.com/hHIjGbP.png" alt="Rafael Rosa" width="225" align="left"/>
 <br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=montserrat&size=30&duration=3000&color=9129F7&lines=Hello+there!" alt="Hello there!" title="Hello there!"/>
