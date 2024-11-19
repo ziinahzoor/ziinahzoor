@@ -1,24 +1,34 @@
-# <img src="https://img.icons8.com/nolan/64/user-default.png" alt="Developer" /> Rafael Rosa Becker dos Santos
+# <img src="https://rafaelrosa.dev/assets/images/logo.svg" height="50" alt="Developer" align=center /> Rafael Rosa Becker dos Santos
 
-<img src="https://i.imgur.com/hHIjGbP.png" alt="Rafael Rosa" width="225" align="left"/>
-<br>
+<img src="https://i.imgur.com/hHIjGbP.png" alt="Rafael Rosa" width="250" align="left" align=center />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=montserrat&size=30&duration=3000&color=9129F7&lines=Hello+there!" alt="Hello there!" title="Hello there!"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=montserrat&size=30&duration=3000&color=9129F7&lines=Hello+there!" alt="Hello there!" title="Hello there!" align=center />
 
-I'm Rafael a 24 years old full-stack and game developer.
+I'm Rafael a 25 years old full-stack and game developer.
 
-Brazilian <img src="https://img.icons8.com/color/16/000000/brazil-circular.png" alt="Brazil Flag" align=center/> and Bachelor of Computer Science 🎓.
+Brazilian <img src="https://img.icons8.com/color/16/000000/brazil-circular.png" alt="Brazil Flag" align=center /> and Bachelor of Computer Science 🎓.
 
-I love languages, but not only the programming ones. I'm proficient in English <img src="https://img.icons8.com/color/16/000000/great-britain-circular.png" alt="English" title="Britain Flag"/>
-, je connais un peu de français <img src="https://img.icons8.com/color/16/000000/france-circular.png" alt="French" title="France Flag"/>, un poco de español <img src="https://img.icons8.com/color/16/000000/spain-circular.png" alt="Spanish" title="Spain Flag"/>, それに、 日本語<img src="https://img.icons8.com/color/16/000000/japan-circular.png" alt="Japanese" title="Japan Flag"/>を学んでいます.
+I've been working in the software industry for nearly 4 years, specializing in .NET, Angular and Flutter applications.
 
-## <img src="https://img.icons8.com/nolan/32/open-resume.png" alt="Resume"/> Resume
+I'm proficient in English <img src="https://img.icons8.com/color/16/000000/great-britain-circular.png" alt="English" title="Britain Flag" align=center />
+, je connais un peu de français <img src="https://img.icons8.com/color/16/000000/france-circular.png" alt="French" title="France Flag" align=center />, un poco de español <img src="https://img.icons8.com/color/16/000000/spain-circular.png" alt="Spanish" title="Spain Flag" align=center />, それに、 日本語<img src="https://img.icons8.com/color/16/000000/japan-circular.png" alt="Japanese" title="Japan Flag" align=center />を学んでいます.
 
-<a href="https://drive.google.com/file/d/17CkQlO6ZwDN6OtIXdiwsWKTjLUAbGIbv/view?usp=sharing" target="_blank">
- <img src="https://img.icons8.com/color/50/000000/brazil-circular.png" alt="Portuguese" title="Portuguese"/>
+## <img src="https://img.icons8.com/nolan/32/browser-window.png" alt="Website" align=center /> Website
+
+<a href="https://rafaelrosa.dev" target="_blank">
+ <img src="https://i.imgur.com/2wgaWh5.png" height="35" alt="rafaelrosa.dev" title="rafaelrosa.dev" align=center />
 </a>
-<a href="https://drive.google.com/file/d/17PruSYgOeFhjp8XZtrEbMqgeg3CJgrlm/view?usp=sharing" target="_blank">
- <img src="https://img.icons8.com/color/50/000000/great-britain-circular.png" alt="English" title="English"/>
+
+## <img src="https://img.icons8.com/nolan/32/open-resume.png" alt="Resume" align=center /> Resume
+
+<a href="https://drive.google.com/file/d/1RNHwVMZ1KrYWPDd1tjMEOmmEAOTICIUm/view?usp=sharing" target="_blank">
+ <img src="https://img.icons8.com/color/50/000000/brazil-circular.png" alt="Portuguese" title="Portuguese" align=center />
+</a>
+<a href="https://drive.google.com/file/d/1isTvEIjN3DEq-ayOxC96ayV-x39_YWJ-/view?usp=sharing" target="_blank">
+ <img src="https://img.icons8.com/color/50/000000/great-britain-circular.png" alt="English" title="English" align=center />
+</a>
+<a href="https://drive.google.com/file/d/1_KaA1lzJ6BB0xct9Q5n68mCphC9jwZpX/view?usp=sharing" target="_blank">
+ <img src="https://img.icons8.com/color/50/000000/france-circular.png" alt="French" title="French" align=center />
 </a>
 <!-- Next resumes to add
 <img src="https://img.icons8.com/color/50/000000/spain2-circular.png" alt="Spanish" title="Spanish"/>
@@ -27,29 +37,29 @@ I love languages, but not only the programming ones. I'm proficient in English <
 <img src="https://img.icons8.com/color/50/000000/germany-circular.png" alt="German" title="German"/>
 -->
 
-## <img src="https://img.icons8.com/nolan/32/business-contact.png" alt="Contact"/> Contact
+## <img src="https://img.icons8.com/nolan/32/business-contact.png" alt="Contact" align=center /> Contact
 
 <a href="mailto:rafaelxsantosx@hotmail.com" target="_blank">
-  <img src="https://img.icons8.com/color/50/000000/ms-outlook.png" alt="Outlook" title="Outlook"/>
+  <img src="https://img.icons8.com/color/50/000000/ms-outlook.png" alt="Outlook" title="Outlook" align=center />
 </a>
 <a href="mailto:rafaelxsantosx@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/color/50/000000/gmail-new.png" alt="Gmail" title="Gmail"/>
+  <img src="https://img.icons8.com/color/50/000000/gmail-new.png" alt="Gmail" title="Gmail" align=center />
 </a>
 <a href="https://api.whatsapp.com/send?phone=5562991539307" target="_blank">
-  <img src="https://img.icons8.com/color/50/000000/whatsapp--v1.png" alt="WhatsApp" title="WhatsApp"/>
+  <img src="https://img.icons8.com/color/50/000000/whatsapp--v1.png" alt="WhatsApp" title="WhatsApp" align=center />
 </a>
 <a href="https://www.linkedin.com/in/ziinahzoor/" target="_blank">
-  <img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
+  <img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" align=center />
 </a>
 <a href="https://www.facebook.com/ziinahzoor/" target="_blank">
-  <img src="https://img.icons8.com/color/50/000000/facebook.png" alt="Facebook" title="Facebook"/>
+  <img src="https://img.icons8.com/color/50/000000/facebook.png" alt="Facebook" title="Facebook" align=center />
 </a> 
 <a href="https://www.instagram.com/ziinahzoor/" target="_blank">
-  <img src="https://img.icons8.com/fluency/50/000000/instagram-new.png" alt="Instagram" title="Instagram"/>
+  <img src="https://img.icons8.com/fluency/50/000000/instagram-new.png" alt="Instagram" title="Instagram" align=center />
 </a> 
 
 
-## <img src="https://img.icons8.com/nolan/32/code--v2.png" alt="Dev Stack"/> Dev Stack
+## <img src="https://img.icons8.com/nolan/32/code--v2.png" alt="Dev Stack" align=center /> Dev Stack
 [![Dev Stack](https://skillicons.dev/icons?i=c,cs,dart,js,ts,java,html,md,css,sass,dotnet,angular,flutter,bootstrap,git,postgres,mysql,visualstudio,vscode,postman&theme=dark)](https://skillicons.dev) <!-- postman -->
 
 <!--
@@ -75,7 +85,7 @@ I love languages, but not only the programming ones. I'm proficient in English <
 <code><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="Postman" title="Postman"/></code>
 -->
 
-## <img src="https://img.icons8.com/nolan/32/books-1.png" alt="Learning Stack"/> Learning Stack
+## <img src="https://img.icons8.com/nolan/32/books-1.png" alt="Learning Stack" align=center /> Learning Stack
 [![Learning Stack](https://skillicons.dev/icons?i=tailwind,firebase,react,reactivex,nodejs,aws,materialui,jquery,expressjs,azure,docker,powershell,bash,unity,unreal,jest,gherkin&theme=dark)](https://skillicons.dev) <!-- sqlserver, jira, reactnative-->
 
 <!--
@@ -121,7 +131,7 @@ I love languages, but not only the programming ones. I'm proficient in English <
 assembly
 -->
 
-## <img src="https://img.icons8.com/nolan/32/design.png" alt="Other Tools"/> Other Tools
+## <img src="https://img.icons8.com/nolan/32/design.png" alt="Other Tools" align=center /> Other Tools
 [![Other Tools](https://skillicons.dev/icons?i=latex,ps,ae,ai,figma&theme=dark)](https://skillicons.dev)
 
 <!--
@@ -130,45 +140,52 @@ assembly
 <code><img src="https://img.icons8.com/color/50/000000/figma--v1.png" alt="Figma" title="Figma"/></code>
 -->
 
-## <img src="https://img.icons8.com/nolan/32/project-management.png" alt="Projects"/> Projects
+## <img src="https://img.icons8.com/nolan/32/work.png" alt="Professional" align=center /> Professional
 
+I'm currently working at <a href="https://www.nttdata.com"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/NTT-Data-Logo.svg" alt="NTT DATA" title="NTT DATA" height=17 align=center /></a> as a .NET/Angular Developer.
+
+I previously worked at <a href="https://www.escolarmanager.com.br/"><img src="https://www.escolarmanager.com.br/marca/escolar-manager.webp" alt="Escolar Manager" title="Escolar Manager" height=20 align=center /></a> as a .NET/Flutter Developer.
+
+## <img src="https://img.icons8.com/nolan/32/school-building.png" alt="Academic" align=center /> Academic
+
+I have a Bachelor's degree in Computer Science by <a href="https://ufg.br/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://files.cercomp.ufg.br/weby/up/1/o/UFG_branco.png" height=40 alt="Universidade Federal de Goiás" title="Universidade Federal de Goiás" align=center><img height=40 alt="Universidade Federal de Goiás" title="Universidade Federal de Goiás" align=center></picture></a>.
+
+## <img src="https://img.icons8.com/nolan/32/project-management.png" alt="Projects" align=center /> Projects
+
+ <a href="https://drive.google.com/file/d/1ooB9Em0b_X9MzxfcszT0N7Ppbin_Vs2v/view?usp=sharing">
+  <img src="https://img.icons8.com/nolan/50/graduation-cap.png" alt="Undergraduation Thesis" title="Undergraduation Thesis (In Portuguese)" align=center />
+ </a>
  <a href="https://drive.google.com/file/d/1iic6vnlyXAg6aO55CrkMW0VLlxxlGP2Y/view?usp=sharing">
-  <img src="https://img.icons8.com/nolan/50/flip-chart.png" alt="Scientific Research" title="Scientific Research"/>
+  <img src="https://img.icons8.com/nolan/50/flip-chart.png" alt="Scientific Research in Graphs" title="Scientific Research in Graphs (In Portuguese)" align=center />
  </a>
  <a href="https://github.com/ziinahzoor/GeneticAlgorithm">
-  <img src="https://img.icons8.com/nolan/50/biotech.png" alt="Genetic Algorithm in C#" title="Genetic Algorithm in C#"/>
+  <img src="https://img.icons8.com/nolan/50/biotech.png" alt="Genetic Algorithm in C#" title="Genetic Algorithm in C#" align=center />
  </a>
  <a href="https://github.com/ziinahzoor/inlumen">
-  <img src="https://img.icons8.com/nolan/50/nintendo-switch-pro-controller.png" alt="Inlumen Game Demo" title="Inlumen Game Demo"/>
+  <img src="https://img.icons8.com/nolan/50/nintendo-switch-pro-controller.png" alt="Inlumen Game Demo" title="Inlumen Game Demo" align=center />
  </a>
  <a href="https://github.com/ziinahzoor/cybersynth-theme">
-  <img src="https://img.icons8.com/nolan/50/paint-palette.png" alt="Jekyll Cybersynth Theme" title="Jekyll Cybersynth Theme"/>
+  <img src="https://img.icons8.com/nolan/50/paint-palette.png" alt="Jekyll Cybersynth Theme" title="Jekyll Cybersynth Theme" align=center />
  </a>
- 
-## <img src="https://img.icons8.com/nolan/32/school-building.png" alt="Academic"/> Academic
 
-I'm a Bachelor of Computer Science, graduated at <a href="https://ufg.br/"><img src="https://files.cercomp.ufg.br/weby/up/1/o/Marca_UFG_cor_horizontal-04.png" height=60 alt="Universidade Federal de Goiás" title="Universidade Federal de Goiás" align=center /></a>.
+## <img src="https://img.icons8.com/nolan/32/certificate.png" alt="Certificates" align=center /> Certificates
 
-## <img src="https://img.icons8.com/nolan/32/work.png" alt="Professional"/> Professional
+ <a href="https://diploma.ufg.br/584.584.9e14241af6b1">
+  <img src="https://img.icons8.com/nolan/50/diploma.png" alt="Bacherlor's degree certificate" title="Bacherlor's degree certificate" align=center />
+ </a>
+ <a href="https://cert.efset.org/en/7jfth9">
+  <img src="https://img.icons8.com/nolan/50/great-britain.png" alt="English C2 Certificate" title="English C2 Certificate" align=center />
+ </a>
 
-I'm currently working at <a href="https://www.nttdata.com"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/NTT-Data-Logo.svg" alt="NTT DATA" title="NTT DATA" height=12/></a> as a .NET/Angular Developer.
+## <img src="https://img.icons8.com/nolan/32/bar-chart.png" alt="Stats" align=center /> Stats
 
-I previously worked at [Escolar Manager](https://www.escolarmanager.com.br) as a .NET/Flutter Developer.
-
-## <img src="https://img.icons8.com/nolan/32/bar-chart.png" alt="Stats"/> Stats
-
-<img src="http://github-readme-streak-stats.herokuapp.com?user=ziinahzoor&theme=radical" alt="Streak Stats" title="Streak Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziinahzoor&theme=radical&layout=compact" alt="Top Languages" title="Top Languages"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=ziinahzoor&theme=radical" alt="Streak Stats" title="Streak Stats" align=center/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziinahzoor&theme=radical&layout=compact" alt="Top Languages" title="Top Languages" align=center/>
 
 ---
 
 <div align="center">
- <img src="https://i.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.webp" alt="Coding Bear" height="200"/>
+ <img src="https://i.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.webp" alt="Coding Bear" height="200" align=center />
  </br>
- <a href="https://spotify-github-profile.vercel.app/api/view?uid=y5sqw3v5r21adcwbkaewvl406&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=y5sqw3v5r21adcwbkaewvl406&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify" title="Spotify"/>
- </a>
- <br>
- <br>
- <img src="https://img.shields.io/github/followers/ziinahzoor?color=blueviolet&style=for-the-badge" alt="GitHub Followers"/>
+ <img src="https://img.shields.io/github/followers/ziinahzoor?color=blueviolet&style=for-the-badge" alt="GitHub Followers" align=center />
 </div>
