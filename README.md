@@ -8,7 +8,7 @@ I'm Rafael a 25 years old full-stack and game developer.
 
 Brazilian <img src="https://img.icons8.com/color/16/000000/brazil-circular.png" alt="Brazil Flag" align=center /> and Bachelor of Computer Science 🎓.
 
-I've been working in the software industry for nearly 4 years, specializing in .NET, Angular and Flutter applications.
+I've been working in the software industry since 2021, specializing in .NET, Angular and Flutter applications.
 
 I'm proficient in English <img src="https://img.icons8.com/color/16/000000/great-britain-circular.png" alt="English" title="Britain Flag" align=center />
 , je connais un peu de français <img src="https://img.icons8.com/color/16/000000/france-circular.png" alt="French" title="France Flag" align=center />, un poco de español <img src="https://img.icons8.com/color/16/000000/spain-circular.png" alt="Spanish" title="Spain Flag" align=center />, それに、 日本語<img src="https://img.icons8.com/color/16/000000/japan-circular.png" alt="Japanese" title="Japan Flag" align=center />を学んでいます.
@@ -142,9 +142,9 @@ assembly
 
 ## <img src="https://img.icons8.com/nolan/32/work.png" alt="Professional" align=center /> Professional
 
-I'm currently working at <a href="https://www.nttdata.com"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/NTT-Data-Logo.svg" alt="NTT DATA" title="NTT DATA" height=17 align=center /></a> as a .NET/Angular Developer.
+I'm currently working at <a href="https://velozient.com/"><img src="https://velozient.com/wp-content/uploads/2023/10/logo.png" alt="Velozient" title="Velozient" height=17 align=center/></a> as a Full-stack Developer.
 
-I previously worked at <a href="https://www.escolarmanager.com.br/"><img src="https://www.escolarmanager.com.br/marca/escolar-manager.webp" alt="Escolar Manager" title="Escolar Manager" height=20 align=center /></a> as a .NET/Flutter Developer.
+I previously worked at <a href="https://www.nttdata.com"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/NTT-Data-Logo.svg" alt="NTT DATA" title="NTT DATA" height=17 align=center /></a> as a .NET/Angular Developer and <a href="https://www.escolarmanager.com.br/"><img src="https://www.escolarmanager.com.br/marca/escolar-manager.webp" alt="Escolar Manager" title="Escolar Manager" height=20 align=center /></a> as a .NET/Flutter Developer.
 
 ## <img src="https://img.icons8.com/nolan/32/school-building.png" alt="Academic" align=center /> Academic
 
@@ -179,7 +179,7 @@ I have a Bachelor's degree in Computer Science by <a href="https://ufg.br/"><pic
 
 ## <img src="https://img.icons8.com/nolan/32/bar-chart.png" alt="Stats" align=center /> Stats
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=ziinahzoor&theme=radical" alt="Streak Stats" title="Streak Stats" align=center/>
+<!--<img src="http://github-readme-streak-stats.herokuapp.com?user=ziinahzoor&theme=radical" alt="Streak Stats" title="Streak Stats" align=center/>-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziinahzoor&theme=radical&layout=compact" alt="Top Languages" title="Top Languages" align=center/>
 
 ---
