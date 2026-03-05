@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=montserrat&size=30&duration=3000&color=9129F7&lines=Hello+there!" alt="Hello there!" title="Hello there!" align=center />
 
-I'm Rafael a 25 years old full-stack and game developer.
+I'm Rafael a 26 years old full-stack and game developer.
 
 Brazilian <img src="https://img.icons8.com/color/16/000000/brazil-circular.png" alt="Brazil Flag" align=center /> and Bachelor of Computer Science 🎓.
 
@@ -24,7 +24,7 @@ I'm proficient in English <img src="https://img.icons8.com/color/16/000000/great
 <a href="https://drive.google.com/file/d/1RNHwVMZ1KrYWPDd1tjMEOmmEAOTICIUm/view?usp=sharing" target="_blank">
  <img src="https://img.icons8.com/color/50/000000/brazil-circular.png" alt="Portuguese" title="Portuguese" align=center />
 </a>
-<a href="https://drive.google.com/file/d/1isTvEIjN3DEq-ayOxC96ayV-x39_YWJ-/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1Sy7ZH8AT940lVVJwauXd49riE0lvVcWQ/view?usp=sharing" target="_blank">
  <img src="https://img.icons8.com/color/50/000000/great-britain-circular.png" alt="English" title="English" align=center />
 </a>
 <a href="https://drive.google.com/file/d/1_KaA1lzJ6BB0xct9Q5n68mCphC9jwZpX/view?usp=sharing" target="_blank">
@@ -60,7 +60,7 @@ I'm proficient in English <img src="https://img.icons8.com/color/16/000000/great
 
 
 ## <img src="https://img.icons8.com/nolan/32/code--v2.png" alt="Dev Stack" align=center /> Dev Stack
-[![Dev Stack](https://skillicons.dev/icons?i=c,cs,dart,js,ts,java,html,md,css,sass,dotnet,angular,flutter,bootstrap,git,postgres,mysql,visualstudio,vscode,postman&theme=dark)](https://skillicons.dev) <!-- postman -->
+[![Dev Stack](https://skillicons.dev/icons?i=dotnet,angular,react,flutter,reactivex,azure,c,cs,dart,js,ts,html,md,css,sass,bootstrap,jest,git,github,gitlab,bitbucket,postgres,mysql,dynamodb,githubactions,visualstudio,vscode,npm,postman&theme=dark)](https://skillicons.dev) <!-- postman -->
 
 <!--
 <code><img src="https://img.icons8.com/color/50/000000/c-programming.png" alt="C" title="C"/></code>
@@ -86,7 +86,7 @@ I'm proficient in English <img src="https://img.icons8.com/color/16/000000/great
 -->
 
 ## <img src="https://img.icons8.com/nolan/32/books-1.png" alt="Learning Stack" align=center /> Learning Stack
-[![Learning Stack](https://skillicons.dev/icons?i=tailwind,firebase,react,reactivex,nodejs,aws,materialui,jquery,expressjs,azure,docker,powershell,bash,unity,unreal,jest,gherkin&theme=dark)](https://skillicons.dev) <!-- sqlserver, jira, reactnative-->
+[![Learning Stack](https://skillicons.dev/icons?i=nodejs,materialui,expressjs,firebase,gcp,azure,docker,rabbitmq,powershell,bash,unity&theme=dark)](https://skillicons.dev) <!-- sqlserver, jira, reactnative-->
 
 <!--
 <code><img src="https://img.icons8.com/color/50/000000/microsoft-sql-server.png" alt="SQL Server" title="SQL Server"/></code>
@@ -142,9 +142,9 @@ assembly
 
 ## <img src="https://img.icons8.com/nolan/32/work.png" alt="Professional" align=center /> Professional
 
-I'm currently working at <a href="https://velozient.com/"><img src="https://velozient.com/wp-content/uploads/2023/10/logo.png" alt="Velozient" title="Velozient" height=17 align=center/></a> as a Full-stack Developer.
+I'm currently looking for a new opportunity.
 
-I previously worked at <a href="https://www.nttdata.com"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/NTT-Data-Logo.svg" alt="NTT DATA" title="NTT DATA" height=17 align=center /></a> as a .NET/Angular Developer and <a href="https://www.escolarmanager.com.br/"><img src="https://www.escolarmanager.com.br/marca/escolar-manager.webp" alt="Escolar Manager" title="Escolar Manager" height=20 align=center /></a> as a .NET/Flutter Developer.
+I previously worked at <a href="https://velozient.com/"><img src="https://velozient.com/wp-content/uploads/2023/10/logo.png" alt="Velozient" title="Velozient" height=17 align=center/></a> as a Full-stack Developer, <a href="https://www.nttdata.com"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/NTT-Data-Logo.svg" alt="NTT DATA" title="NTT DATA" height=17 align=center /></a> as a .NET/Angular Developer and <a href="https://www.escolarmanager.com.br/"><img src="https://www.escolarmanager.com.br/wp-content/uploads/2026/01/logo-escolar-manager-softwares-para-gestao-escolar-300x35.webp" alt="Escolar Manager" title="Escolar Manager" height=20 align=center /></a> as a .NET/Flutter Developer.
 
 ## <img src="https://img.icons8.com/nolan/32/school-building.png" alt="Academic" align=center /> Academic
 
@@ -177,10 +177,10 @@ I have a Bachelor's degree in Computer Science by <a href="https://ufg.br/"><pic
   <img src="https://img.icons8.com/nolan/50/great-britain.png" alt="English C2 Certificate" title="English C2 Certificate" align=center />
  </a>
 
-## <img src="https://img.icons8.com/nolan/32/bar-chart.png" alt="Stats" align=center /> Stats
+<!--## <img src="https://img.icons8.com/nolan/32/bar-chart.png" alt="Stats" align=center /> Stats-->
 
 <!--<img src="http://github-readme-streak-stats.herokuapp.com?user=ziinahzoor&theme=radical" alt="Streak Stats" title="Streak Stats" align=center/>-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziinahzoor&theme=radical&layout=compact" alt="Top Languages" title="Top Languages" align=center/>
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziinahzoor&theme=radical&layout=compact" alt="Top Languages" title="Top Languages" align=center/>-->
 
 ---
 
