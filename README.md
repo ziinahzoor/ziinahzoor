@@ -87,7 +87,7 @@ I'm proficient in English <img src="https://img.icons8.com/color/16/000000/great
 -->
 
 ## <img src="https://img.icons8.com/nolan/32/books-1.png" alt="Learning Stack" align=center /> Learning Stack
-[![Learning Stack](https://skills.syvixor.com/api/icons?perline=15&i=nodejs,materialui,expressjs,firebase,gcp,azure,docker,rabbitmq,powershell,bash,aseprite,unity&theme=dark)](https://skillicons.dev) <!-- sqlserver, jira, reactnative-->
+![Learning Stack](https://skills.syvixor.com/api/icons?perline=15&i=nodejs,materialui,expressjs,firebase,gcp,azure,docker,rabbitmq,powershell,bash,aseprite,unity&theme=dark) <!-- sqlserver, jira, reactnative-->
 
 <!--
 <code><img src="https://img.icons8.com/color/50/000000/microsoft-sql-server.png" alt="SQL Server" title="SQL Server"/></code>
@@ -133,7 +133,7 @@ assembly
 -->
 
 ## <img src="https://img.icons8.com/nolan/32/design.png" alt="Other Tools" align=center /> Other Tools
-[![Other Tools](https://skills.syvixor.com/api/icons?perline=15&i=jira,confluence,latex,ps,ae,ai,figma&theme=dark)](https://skillicons.dev)
+![Other Tools](https://skills.syvixor.com/api/icons?perline=15&i=jira,confluence,latex,ps,ae,ai,figma&theme=dark)
 
 <!--
 <code><img src="https://img.icons8.com/color/50/000000/latex.png" alt="LaTeX" title="LaTeX"/></code>
