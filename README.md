@@ -60,7 +60,8 @@ I'm proficient in English <img src="https://img.icons8.com/color/16/000000/great
 
 
 ## <img src="https://img.icons8.com/nolan/32/code--v2.png" alt="Dev Stack" align=center /> Dev Stack
-[![Dev Stack](https://skillicons.dev/icons?i=dotnet,angular,react,flutter,reactivex,azure,c,cs,dart,js,ts,html,md,css,sass,bootstrap,jest,git,github,gitlab,bitbucket,postgres,mysql,dynamodb,githubactions,visualstudio,vscode,npm,postman&theme=dark)](https://skillicons.dev) <!-- postman -->
+<!--[![Dev Stack](https://skillicons.dev/icons?i=dotnet,angular,react,flutter,reactivex,azure,c,cs,dart,js,ts,html,md,css,sass,bootstrap,jest,git,github,gitlab,bitbucket,postgres,mysql,dynamodb,githubactions,visualstudio,vscode,npm,postman&theme=dark)](https://skillicons.dev) <!-- postman -->
+![Dev Stack](https://skills.syvixor.com/api/icons?perline=15&i=dotnet,angularjs,reactjs,flutter,rxjs,bloc,npm,nuget,csharp,c,dart,assembly,html,css,sass,javascript,typescript,bootstrap,markdown,jest,git,github,gitlab,bitbucket,githubactions,githubpages,sqlserver,postgresql,mysql,amazonwebservices,postman,insomnia,visualstudio,visualstudiocode,androidstudio,xcode,docusaurus,splunk)
 
 <!--
 <code><img src="https://img.icons8.com/color/50/000000/c-programming.png" alt="C" title="C"/></code>
@@ -86,7 +87,7 @@ I'm proficient in English <img src="https://img.icons8.com/color/16/000000/great
 -->
 
 ## <img src="https://img.icons8.com/nolan/32/books-1.png" alt="Learning Stack" align=center /> Learning Stack
-[![Learning Stack](https://skillicons.dev/icons?i=nodejs,materialui,expressjs,firebase,gcp,azure,docker,rabbitmq,powershell,bash,unity&theme=dark)](https://skillicons.dev) <!-- sqlserver, jira, reactnative-->
+[![Learning Stack](https://skills.syvixor.com/api/icons?perline=15&i=nodejs,materialui,expressjs,firebase,gcp,azure,docker,rabbitmq,powershell,bash,aseprite,unity&theme=dark)](https://skillicons.dev) <!-- sqlserver, jira, reactnative-->
 
 <!--
 <code><img src="https://img.icons8.com/color/50/000000/microsoft-sql-server.png" alt="SQL Server" title="SQL Server"/></code>
@@ -132,7 +133,7 @@ assembly
 -->
 
 ## <img src="https://img.icons8.com/nolan/32/design.png" alt="Other Tools" align=center /> Other Tools
-[![Other Tools](https://skillicons.dev/icons?i=latex,ps,ae,ai,figma&theme=dark)](https://skillicons.dev)
+[![Other Tools](https://skills.syvixor.com/api/icons?perline=15&i=jira,confluence,latex,ps,ae,ai,figma&theme=dark)](https://skillicons.dev)
 
 <!--
 <code><img src="https://img.icons8.com/color/50/000000/latex.png" alt="LaTeX" title="LaTeX"/></code>
